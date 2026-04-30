@@ -1,14 +1,13 @@
 ;*******************************************************;
-;							;
-; Title		:	flashcards: ps			;
-; Creator	:	John Coleman			;
-; Creation Date	:	2024.03.08			;
-; Modified Date	:	2024.03.08			;
-; Brief	:						;
-; x86 Assembly application written for Linux.  		;
-; Provides terminal flash cards for studying Linux 	;
-; commands.						;
-;							;
+;														;
+; Title		:	flashcards: ps							;
+; Creator	:	John Coleman							;
+; Creation Date	:	2024.03.08							;
+; Modified Date	:	2024.03.08							;
+; Brief	:												;
+; x86 Assembly application written for Linux.  			;
+; Provides terminal flash cards for studying Linux 		;
+; commands.												;
 ;*******************************************************;
 
 section .bss
