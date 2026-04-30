@@ -1,12 +1,12 @@
 ;*******************************************************;
 ;														;
-; Title		:	cpuid_info							;
+; Title		:	cpuid_info								;
 ; Creator	:	John Coleman							;
 ; Creation Date	:	2025.31.07							;
 ; Modified Date	:	2024.31.07							;
 ; Brief	:												;
 ; x86 Assembly application written for Linux.  			;
-; Reads fields from CPUID instruction.									;
+; Reads fields from CPUID instruction.					;
 ;*******************************************************;
 
 section .bss
